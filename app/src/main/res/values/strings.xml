@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HWR Bluetooth LE</string>
+    <string name="aus">aus</string>
+    <string name="ein">ein</string>
+
+    <string name="error">Bluetoothfehler: %1$d</string>
+
+</resources>
